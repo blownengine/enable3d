@@ -29,7 +29,7 @@
     "publish:threeWrapper": "cd packages/threeWrapper && npm publish",
     "publish:common": "cd packages/common && npm publish",
     "publish:ammoPhysics": "cd packages/ammoPhysics && npm publish",
-    "publish:ammoOnNodejs": "cd packages/ammoOnNodejs && npm publish",
+    "publish:ammoOnNodejs": "cd packages/ammoOnNodejs && npm publish --access public",
     "publish:threeGraphics": "cd packages/threeGraphics && npm publish",
     "publish:phaserExtension": "cd packages/phaserExtension && npm publish",
     "publish:enable3d": "cd packages/enable3d && npm publish",

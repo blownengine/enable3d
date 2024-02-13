@@ -1,6 +1,6 @@
 {
-  "name": "@enable3d/ammo-on-nodejs",
-  "version": "0.25.4",
+  "name": "@blownengine/ammo-on-nodejs",
+  "version": "0.25.5",
   "description": "Runs ammo.js on your node.js server",
   "main": "dist/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "license": "LGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enable3d/enable3d.git",
+    "url": "git+https://github.com/blownengine/enable3d.git",
     "directory": "packages/ammoOnNodejs"
   },
   "bugs": {

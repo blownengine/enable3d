@@ -14,6 +14,8 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/built%20with-TypeScript-blue?style=flat-square"></a>
 </p>
 
+This is a fork from original @enable3d/ammo-on-nodejs package with support of byteStride property in InterleavedBuffers for collision shapes. This package may be deprecated and deleted soon.
+
 ## Features
 
 - Based on [@enable3d/ammo-physics](https://www.npmjs.com/package/@enable3d/ammo-physics)
